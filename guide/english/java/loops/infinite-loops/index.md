@@ -35,7 +35,7 @@ Normally, if your loop is running infinitely, it is an error that should not occ
 for(int i=0;i<100;i++){
 
     if(i==49){
-    i=0;
+        i=0;
     }
 
 }
